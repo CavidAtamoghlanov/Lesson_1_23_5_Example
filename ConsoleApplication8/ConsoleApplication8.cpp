@@ -6,12 +6,13 @@ using namespace std;
 class ClassByElvin
 {
 	string name = "Elvin";
+	int age = 16;
 
 public:
 
 	void Show()
 	{
-		cout << endl << name << endl;
+		cout << endl << name << endl << age << endl;
 	}
 };
 
@@ -20,6 +21,12 @@ void Function_By_Elvin()
 	cout << "\nFunction By Elvin" << endl << endl;
 
 }
+void Function_By_Huseyn()
+{
+	cout << "\nFunction By Huseyn" << endl << endl;
+
+}
+
 
 void FunctionByZibeyda()
 {
