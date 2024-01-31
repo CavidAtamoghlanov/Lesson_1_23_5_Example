@@ -6,12 +6,13 @@ using namespace std;
 class ClassByElvin
 {
 	string name = "Elvin";
+	int age = 16;
 
 public:
 
 	void Show()
 	{
-		cout << endl << name << endl;
+		cout << endl << name << endl << age << endl;
 	}
 };
 
@@ -20,11 +21,12 @@ void Function_By_Elvin()
 	cout << "\nFunction By Elvin" << endl << endl;
 
 }
-void Function_By_Vaqif()
+void Function_By_Huseyn()
 {
-	cout << "Function By Vaqif" << endl;
+	cout << "\nFunction By Huseyn" << endl << endl;
 
 }
+
 
 // Find Min
 int FindMin(int arr[], int size)
@@ -63,6 +65,6 @@ void Eki()
 
 int main()
 {
-	cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
 
