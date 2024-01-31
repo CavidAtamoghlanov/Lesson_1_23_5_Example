@@ -1,5 +1,6 @@
 #include <iostream>
 
+<<<<<<< HEAD
 using namespace std;
 
 
@@ -44,6 +45,8 @@ int FindMin(int arr[], int size)
 	}
 	return min;
 }
+=======
+>>>>>>> b9c0c09a488bde1fa44a0aa329616cf91befb87c
 
 
 // Find Max Element
@@ -63,6 +66,10 @@ void Ibrahim()
 	cout << "Ibrhaim" << endl;
 }
 
+void Eki()
+{
+	cout << "fh4ufh4f8hf984yf479ry3479y79y" << endl;
+}
 
 int main()
 {
