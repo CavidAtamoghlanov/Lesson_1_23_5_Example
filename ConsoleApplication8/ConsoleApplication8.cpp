@@ -21,6 +21,11 @@ void Function_By_Elvin()
 
 }
 
+void FunctionByZibeyda()
+{
+	cout << "function by zibeyda" << endl;
+}
+
 // Find Min
 int FindMin(int arr[], int size)
 {
