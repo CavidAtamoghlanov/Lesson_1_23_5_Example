@@ -66,6 +66,10 @@ void Ibrahim()
 	cout << "Ibrhaim" << endl;
 }
 
+void Eki()
+{
+	cout << "fh4ufh4f8hf984yf479ry3479y79y" << endl;
+}
 
 int main()
 {
