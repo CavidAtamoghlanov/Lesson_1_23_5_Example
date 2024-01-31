@@ -6,12 +6,13 @@ using namespace std;
 class ClassByElvin
 {
 	string name = "Elvin";
+	int age = 16;
 
 public:
 
 	void Show()
 	{
-		cout << endl << name << endl;
+		cout << endl << name << endl << age << endl;
 	}
 };
 
