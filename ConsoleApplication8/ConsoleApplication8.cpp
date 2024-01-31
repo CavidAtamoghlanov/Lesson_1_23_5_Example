@@ -2,6 +2,19 @@
 
 using namespace std;
 
+
+class ClassByElvin
+{
+	string name = "Elvin";
+
+public:
+
+	void Show()
+	{
+		cout << endl << name << endl;
+	}
+};
+
 void Function_By_Elvin()
 {
 	cout << "\nFunction By Elvin" << endl << endl;
