@@ -20,11 +20,12 @@ void Function_By_Elvin()
 	cout << "\nFunction By Elvin" << endl << endl;
 
 }
-void Function_By_Vaqif()
+void Function_By_Huseyn()
 {
-	cout << "Function By Vaqif" << endl;
+	cout << "\nFunction By Huseyn" << endl << endl;
 
 }
+
 
 // Find Min
 int FindMin(int arr[], int size)
@@ -59,6 +60,6 @@ void Ibrahim()
 
 int main()
 {
-	cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
 
