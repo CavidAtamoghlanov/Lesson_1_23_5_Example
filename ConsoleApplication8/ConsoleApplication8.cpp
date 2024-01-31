@@ -1,6 +1,5 @@
 #include <iostream>
 
-<<<<<<< HEAD
 using namespace std;
 
 
@@ -45,9 +44,6 @@ int FindMin(int arr[], int size)
 	}
 	return min;
 }
-=======
->>>>>>> 9e806499c5c5d294912c8e11b6bbd003be2940ba
-
 
 // Find Max Element
 int FindMax(int arr[], int size)
@@ -70,6 +66,17 @@ void Eki()
 {
 	cout << "fh4ufh4f8hf984yf479ry3479y79y" << endl;
 }
+
+void Mirtalib()
+{
+	cout << "Mirtalib"<<endl; 
+}
+
+
+
+
+
+
 
 int main()
 {
