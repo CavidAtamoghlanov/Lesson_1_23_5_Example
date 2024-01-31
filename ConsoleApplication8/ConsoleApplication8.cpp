@@ -6,12 +6,13 @@ using namespace std;
 class ClassByElvin
 {
 	string name = "Elvin";
+	int age = 16;
 
 public:
 
 	void Show()
 	{
-		cout << endl << name << endl;
+		cout << endl << name << endl << age << endl;
 	}
 };
 
@@ -20,18 +21,11 @@ void Function_By_Elvin()
 	cout << "\nFunction By Elvin" << endl << endl;
 
 }
-
-
-
-#pragma region Muhammad
-void Muhammad()
+void Function_By_Vaqif()
 {
-	cout << "Salam men Mehemmed";
+	cout << "Function By Vaqif" << endl;
+
 }
-#pragma endregion
-
-
-
 
 // Find Min
 int FindMin(int arr[], int size)
@@ -44,6 +38,10 @@ int FindMin(int arr[], int size)
 	}
 	return min;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd6a2005a11613d276aab3e9d0db4a48073a5899
 
 // Find Max Element
 int FindMax(int arr[], int size)
@@ -62,10 +60,12 @@ void Ibrahim()
 	cout << "Ibrhaim" << endl;
 }
 
-void Eki()
+void Mirqafar() 
 {
-	cout << "fh4ufh4f8hf984yf479ry3479y79y" << endl;
+	cout << "Mirqafar" << endl;
 }
+=======
+>>>>>>> c6c5ea6df3386641f2d8c40e7351ed23b7ee263e
 
 void Mirtalib()
 {
