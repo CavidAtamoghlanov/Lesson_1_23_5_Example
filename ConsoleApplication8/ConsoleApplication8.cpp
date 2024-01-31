@@ -2,9 +2,10 @@
 
 using namespace std;
 
-void FoobyElvin()
+void Function_By_Elvin()
 {
-    cout << "Elvin" << endl;
+	cout << "\nFunction By Elvin" << endl << endl;
+
 }
 
 // Find Min
