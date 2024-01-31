@@ -57,6 +57,10 @@ void Ibrahim()
 	cout << "Ibrhaim" << endl;
 }
 
+void Mirqafar() 
+{
+	cout << "Mirqafar" << endl;
+}
 
 int main()
 {
