@@ -33,6 +33,12 @@ int FindMax(int arr[], int size)
 	return max;
 }
 
+void Ibrahim()
+{
+	cout << "Ibrhaim" << endl;
+}
+
+
 int main()
 {
     cout << "Hello World!\n";
