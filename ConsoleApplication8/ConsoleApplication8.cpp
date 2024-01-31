@@ -1,12 +1,21 @@
-// ConsoleApplication8.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 
 #include <iostream>
 
-<<<<<<< HEAD
+//<<<<<<< HEAD
+//
+//    ====== =
+//    >>>>>> > parent of 0e3d5d3(By Elvin)
 
-=======
->>>>>>> parent of 0e3d5d3 (By Elvin)
+using namespace std;
+
+void Seymur()
+{
+
+	cout << "Seymur" << endl;
+}
+
+
 int main()
 {
-    std::cout << "Hello World!\n";
+	cout << "Hello World!\n";
+}
