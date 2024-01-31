@@ -21,6 +21,11 @@ void Function_By_Elvin()
 	cout << "\nFunction By Elvin" << endl << endl;
 
 }
+void Function_By_Vaqif()
+{
+	cout << "Function By Vaqif" << endl;
+
+}
 
 // Find Min
 int FindMin(int arr[], int size)
@@ -47,8 +52,14 @@ int FindMax(int arr[], int size)
 	return max;
 }
 
+void Ibrahim()
+{
+	cout << "Ibrhaim" << endl;
+}
+
+
 int main()
 {
-    cout << "Hello World!\n";
+	cout << "Hello World!\n";
 }
 
