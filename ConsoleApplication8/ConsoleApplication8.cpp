@@ -21,6 +21,18 @@ void Function_By_Elvin()
 
 }
 
+
+
+#pragma region Muhammad
+void Muhammad()
+{
+	cout << "Salam men Mehemmed";
+}
+#pragma endregion
+
+
+
+
 // Find Min
 int FindMin(int arr[], int size)
 {
