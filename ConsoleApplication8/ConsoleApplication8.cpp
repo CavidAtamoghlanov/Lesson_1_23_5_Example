@@ -1,5 +1,6 @@
 #include <iostream>
 
+<<<<<<< HEAD
 using namespace std;
 
 
@@ -61,9 +62,11 @@ void Mirqafar()
 {
 	cout << "Mirqafar" << endl;
 }
+=======
+>>>>>>> c6c5ea6df3386641f2d8c40e7351ed23b7ee263e
 
 int main()
 {
-	cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
 
